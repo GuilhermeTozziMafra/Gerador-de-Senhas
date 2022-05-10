@@ -1,2 +1,2 @@
-# Gerador de Senhas
-## Segue em anexo o projeto sobre um Gerador de Senhas automático de senhas utilizando as linguagens *HTML, CSS & JS*.
+# Password Generator
+## Below shows the project about an automatic password generator using *HTML, CSS & JS* languages.
